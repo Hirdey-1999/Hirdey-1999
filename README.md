@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hirdey-1999
 - 👀 I’m interested in coding , development
-- 🌱 I’m currently learning c++,JAVA
+- 🌱 I’m currently learning Flutter,Dart
 - 💞️ I’m looking to collaborate on coding projects , documents
 - 📫 How to reach me EMAIL - hirdeymittal@gmail.com, GITHUB
 
